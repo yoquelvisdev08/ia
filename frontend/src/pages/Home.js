@@ -9,6 +9,6 @@ const Home = () => {
       <Link to="/login">Login</Link>
     </div>
   );
-}
+};
 
 export default Home;
